@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: MHuy21
 - Repo bài nộp (URL): [github.com/MHuy21/K5-L2B-DAY08-2A202603301-DuongManhHuy-AIPrelabel.git](https://github.com/MHuy21/K5-L2B-DAY08-2A202603301-DuongManhHuy-AIPrelabel.git)
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): 07e3b3f
 - Máy: Windows 11 Home, CPU only — không có GPU CUDA/MPS (AMD Radeon 780M tích hợp), RAM 32 GB; Python 3.12.10, torch 2.15.0+cpu, ultralytics 8.4.215
 - CVAT (Docker): v2.81.0 (Docker Desktop, http://localhost:8080)
 
