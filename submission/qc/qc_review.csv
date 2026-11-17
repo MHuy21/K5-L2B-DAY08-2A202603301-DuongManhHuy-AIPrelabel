@@ -1,0 +1,14 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,#23,thua,MHuy21,"box truck trên lan can xe ba gác #4, không có xe tải"
+img_003.jpg,#22,thua,MHuy21,"three_wheeler trên sạp quán mép trái, không phải xe"
+img_003.jpg,#2,sai_lop,MHuy21,xe tải thùng ở xa bị gán three_wheeler (đúng: truck)
+img_003.jpg,#1,sai_lop,MHuy21,xe 4 bánh tối màu ở xa bị gán three_wheeler
+img_006.jpg,#76,sai_vi_tri_kich_thuoc,MHuy21,hàng xe máy đỗ trái: box bao 2-3 xe
+img_006.jpg,#78,sai_vi_tri_kich_thuoc,MHuy21,hàng xe máy đỗ trái: box bao 2-3 xe
+img_006.jpg,#85,sai_vi_tri_kich_thuoc,MHuy21,hàng xe máy đỗ trái: box bao 2-3 xe
+img_006.jpg,#79,sai_vi_tri_kich_thuoc,MHuy21,hàng xe máy đỗ trái: box bao 2-3 xe
+img_014.jpg,#155,thua,MHuy21,"motorbike trùng, nằm trong box #165"
+img_014.jpg,#154,thua,MHuy21,"dải 20 px mép phải, phần xe đã có box #161"
+img_031.jpg,#496,sai_vi_tri_kich_thuoc,MHuy21,box người thiếu phần chân nhìn thấy dưới giỏ
+img_035.jpg,#562,thua,MHuy21,"person trên nền tối mép trái, không có người"
+img_035.jpg,#554,thua,MHuy21,motorbike trùng với #590 trên cùng cụm xe đỗ
